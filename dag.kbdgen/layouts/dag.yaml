@@ -113,17 +113,17 @@ macOS:
         ' 1 2 3 4 5 6 7 8 9 0 + ´
           q w e r t y u i o p ɛ ʒ
           a s d f g h j k l ɣ ŋ ɔ
-          z x c v b n m , . -
+        < z x c v b n m , . -
       shift: |
         § ! " # $ % & / ( ) = ? `
           Q W E R T Y U I O P Ɛ Ʒ
           A S D F G H J K L Ɣ Ŋ Ɔ
-          Z X C V B N M ; : _
+        > Z X C V B N M ; : _
       caps: |
         ' 1 2 3 4 5 6 7 8 9 0 + ´
           Q W E R T Y U I O P Ɛ Ʒ
           A S D F G H J K L Ɣ Ŋ Ɔ
-          Z X C V B N M , . -
+        < Z X C V B N M , . -
       alt: |
         ' © ™ £ € ˆ § | [ ] ˝ ± \u{301}
           q w é ˇ ŧ þ ˀ ï œ ʼ ˚ ¨
@@ -185,28 +185,28 @@ windows:
     layers:
       default: |
         | 1 2 3 4 5 6 7 8 9 0 + \
-        q w e r t y u i o p ɛ ʒ
+          q w e r t y u i o p ɛ ʒ
           a s d f g h j k l ɣ ŋ ɔ
-          z x c v b n m , . -
+        < z x c v b n m , . -
       shift: |
         § ! " # ¤ % & / ( ) = ? `
-        Q W E R T Y U I O P Ɛ Ʒ
-        A S D F G H J K L Ɣ Ŋ Ɔ
-        Z X C V B N M ; : _
+          Q W E R T Y U I O P Ɛ Ʒ
+          A S D F G H J K L Ɣ Ŋ Ɔ
+        > Z X C V B N M ; : _
       caps: |
         | 1 2 3 4 5 6 7 8 9 0 + \
-        Q W E R T Y U I O P Ɛ Ʒ
-        A S D F G H J K L Ɣ Ŋ Ɔ
-        Z X C V B N M , . -
+          Q W E R T Y U I O P Ɛ Ʒ
+          A S D F G H J K L Ɣ Ŋ Ɔ
+        > Z X C V B N M , . -
       caps+shift: |
         § ! " # ¤ % & / ( ) = ? `
-        q w e r t y u i o p ɛ ʒ
+          q w e r t y u i o p ɛ ʒ
           a s d f g h j k l ɣ ŋ ɔ
-          z x c v b n m ; : _
+        > z x c v b n m ; : _
       alt: |
         ` ¡ ™ £ ¢ § ˆ ¶ • ª º – ≠
-        œ ˙ ´ ® þ ¥ ¨ ʼ ø , [ ]
-        ¯ ß ð ƒ © ˍ ˝ ˚ - … æ «
+          œ ˙ ´ ® þ ¥ ¨ ʼ ø , [ ]
+          ¯ ß ð ƒ © ˍ ˝ ˚ - … æ «
         § ˀ . ¸ ˇ ˘ ˜ ˛ ≤ ≥ ÷
       alt+shift: |
         \u{300} ⁄ € ‹ › † \u{302} ‡ ° · ‚ — ±

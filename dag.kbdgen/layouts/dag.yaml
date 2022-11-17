@@ -169,7 +169,7 @@ macOS:
 
 windows:
   config:
-    locale: dag-Latn-US
+    locale: dag-Latn-GH
   primary:
     layers:
       default: |
